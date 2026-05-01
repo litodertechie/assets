@@ -3,7 +3,7 @@
     {
       "id": "meal_1777640667804",
       "timestamp": "2026-05-01T13:04:27.804Z",
-      "mealName": "Roast Chicken with Beetroot and Celery Salad (×1.3)",
+      "mealName": "Roast Chicken with Beetroot and Celery Salad (Ã1.3)",
       "calories": 845,
       "protein": 85,
       "carbs": 33,
@@ -13,6 +13,20 @@
       "notes": "The chicken appears to be a good portion, likely half a small chicken. The salad is a substantial mix of beetroot and celery, possibly with other vegetables or dressing contributing to fat/carb content.",
       "source": "photo",
       "portionMultiplier": 1.3
+    },
+    {
+      "id": "meal_1777640717986",
+      "timestamp": "2026-05-01T13:05:17.986Z",
+      "mealName": "Skim Milk Cappuccino and Chocolate Croissant",
+      "calories": 480,
+      "protein": 17,
+      "carbs": 65,
+      "fat": 19,
+      "fiber": 3,
+      "confidence": "medium",
+      "notes": "Assumed a standard chocolate croissant (approx. 80-90g) and a typical large skim milk cappuccino (250ml milk). Milk calculations are for skim milk. Croissant nutritional data is based on averages for a chocolate pastry.",
+      "source": "text",
+      "portionMultiplier": 1
     }
   ]
 }
