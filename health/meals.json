@@ -3,7 +3,7 @@
     {
       "id": "meal_1777640667804",
       "timestamp": "2026-05-01T13:04:27.804Z",
-      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂ1.3)",
+      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂ1.3)",
       "calories": 845,
       "protein": 85,
       "carbs": 33,
@@ -53,6 +53,20 @@
       "fiber": 3,
       "confidence": "medium",
       "notes": "Assumed 1 medium slice (approx 50g) sourdough bread, 2 tablespoons full-fat cream cheese, and 1 slice (approx 20g) gouda cheese.",
+      "source": "text",
+      "portionMultiplier": 1
+    },
+    {
+      "id": "meal_1777640845052",
+      "timestamp": "2026-05-01T13:07:25.052Z",
+      "mealName": "Cappuccino with Skim Milk (250ml)",
+      "calories": 90,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 0,
+      "fiber": 0,
+      "confidence": "high",
+      "notes": "Assumed a standard 250ml (approximately 8.5 fl oz) cappuccino made with skim milk and no added sugar or syrup. Coffee itself contributes negligible calories.",
       "source": "text",
       "portionMultiplier": 1
     }
