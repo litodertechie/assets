@@ -1,14 +1,1 @@
-{
-  "2026-05-01": [
-    {
-      "id": "80a5a4de-4381-4261-be6b-2aaba3154011",
-      "timestamp": "2026-05-01T11:54:43.423Z",
-      "mealName": "Test Chicken Bowl",
-      "calories": 520,
-      "protein": 45,
-      "carbs": 38,
-      "fat": 14,
-      "source": "text"
-    }
-  ]
-}
+{}
