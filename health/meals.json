@@ -3,7 +3,7 @@
     {
       "id": "meal_1777640667804",
       "timestamp": "2026-05-01T13:04:27.804Z",
-      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂ1.3)",
+      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂ1.3)",
       "calories": 845,
       "protein": 85,
       "carbs": 33,
@@ -39,6 +39,20 @@
       "fiber": 8,
       "confidence": "medium",
       "notes": "Assumed a standard Fishbowl 'OG Chicken' bowl with chicken, brown rice, standard mix of veggies (carrots, cabbage, edamame), and a typical dressing (e.g., miso sesame or shoyu).",
+      "source": "text",
+      "portionMultiplier": 1
+    },
+    {
+      "id": "meal_1777640803430",
+      "timestamp": "2026-05-01T13:06:43.430Z",
+      "mealName": "Sourdough Bread with Cream Cheese and Gouda Cheese",
+      "calories": 400,
+      "protein": 18,
+      "carbs": 40,
+      "fat": 20,
+      "fiber": 3,
+      "confidence": "medium",
+      "notes": "Assumed 1 medium slice (approx 50g) sourdough bread, 2 tablespoons full-fat cream cheese, and 1 slice (approx 20g) gouda cheese.",
       "source": "text",
       "portionMultiplier": 1
     }
