@@ -3,7 +3,7 @@
     {
       "id": "meal_1777640667804",
       "timestamp": "2026-05-01T13:04:27.804Z",
-      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ1.3)",
+      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ1.3)",
       "calories": 845,
       "protein": 85,
       "carbs": 33,
@@ -83,6 +83,20 @@
       "fiber": 4,
       "confidence": "medium",
       "notes": "Assumed 2 slices of charcoal gluten bread (~160 calories total), 2 medium poached eggs (~140 calories total), 2 strips of bacon (pan-fried, ~100 calories total), and 1 tablespoon of butter (~100 calories).",
+      "source": "text",
+      "portionMultiplier": 1
+    },
+    {
+      "id": "meal_1777725273134",
+      "timestamp": "2026-05-02T12:34:33.134Z",
+      "mealName": "Chocolate Sea Salt Cookie",
+      "calories": 200,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 11,
+      "fiber": 1,
+      "confidence": "medium",
+      "notes": "Assumed a standard-sized (around 1.5-2 oz) chocolate chip cookie with sea salt. Nutritional content can vary significantly based on recipe ingredients (e.g., type of flour, amount of butter/sugar/chocolate, inclusion of eggs).",
       "source": "text",
       "portionMultiplier": 1
     }
