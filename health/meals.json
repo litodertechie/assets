@@ -3,7 +3,7 @@
     {
       "id": "meal_1777640667804",
       "timestamp": "2026-05-01T13:04:27.804Z",
-      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ1.3)",
+      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ1.3)",
       "calories": 845,
       "protein": 85,
       "carbs": 33,
@@ -125,6 +125,20 @@
       "fiber": 4,
       "confidence": "medium",
       "notes": "Assumed a single serving consistent with a main course at a restaurant like Bills. 'Crispy' implies deep-frying or pan-frying, adding fat. 'White pepper chicken' likely includes a sauce, rice or similar starch, and potentially a small side salad or garnish. Fat content is higher due to crispy preparation. Carbohydrates include starch and potential sugars in the sauce. Protein is from the chicken itself.",
+      "source": "text",
+      "portionMultiplier": 1
+    },
+    {
+      "id": "meal_1777725398004",
+      "timestamp": "2026-05-02T12:36:38.004Z",
+      "mealName": "Prawn Pasta from Bills",
+      "calories": 750,
+      "protein": 45,
+      "carbs": 80,
+      "fat": 25,
+      "fiber": 6,
+      "confidence": "medium",
+      "notes": "Assumed a typical main course portion of prawn pasta at a restaurant like Bills, including pasta, a creamy or oil-based sauce, prawns, and potentially some vegetables like cherry tomatoes or spinach. Pasta type assumed to be standard white pasta. 'Bills' restaurants are known for generous portions and sometimes richer dishes.",
       "source": "text",
       "portionMultiplier": 1
     }
