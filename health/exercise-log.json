@@ -23,6 +23,19 @@
       "intensity": "moderate",
       "notes": "Assumed a moderate pace for 500m swim for an 88kg male. Duration and heart rate are estimates based on this pace.",
       "source": "manual"
+    },
+    {
+      "id": "ex_1777725893614",
+      "timestamp": "2026-05-02T12:44:53.614Z",
+      "activityName": "Walking (12k steps)",
+      "activityType": "cardio",
+      "durationMinutes": 120,
+      "caloriesBurned": 720,
+      "strainScore": 9.5,
+      "averageHeartRate": 110,
+      "intensity": "moderate",
+      "notes": "Assumed a vigorous walking pace for an 88kg male focused on body recomposition. Average step count to duration approximation used (100 steps/minute). Calories are an estimate based on walking at a moderate pace for an 88kg individual. Strain score reflects moderate effort over a sustained period.",
+      "source": "manual"
     }
   ]
 }
