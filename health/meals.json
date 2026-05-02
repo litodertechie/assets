@@ -3,7 +3,7 @@
     {
       "id": "meal_1777640667804",
       "timestamp": "2026-05-01T13:04:27.804Z",
-      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂ1.3)",
+      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ1.3)",
       "calories": 845,
       "protein": 85,
       "carbs": 33,
@@ -67,6 +67,22 @@
       "fiber": 0,
       "confidence": "high",
       "notes": "Assumed a standard 250ml (approximately 8.5 fl oz) cappuccino made with skim milk and no added sugar or syrup. Coffee itself contributes negligible calories.",
+      "source": "text",
+      "portionMultiplier": 1
+    }
+  ],
+  "2026-05-02": [
+    {
+      "id": "meal_1777725250083",
+      "timestamp": "2026-05-02T12:34:10.083Z",
+      "mealName": "Charcoal Gluten Bread with Bacon and Poached Eggs",
+      "calories": 480,
+      "protein": 30,
+      "carbs": 40,
+      "fat": 25,
+      "fiber": 4,
+      "confidence": "medium",
+      "notes": "Assumed 2 slices of charcoal gluten bread (~160 calories total), 2 medium poached eggs (~140 calories total), 2 strips of bacon (pan-fried, ~100 calories total), and 1 tablespoon of butter (~100 calories).",
       "source": "text",
       "portionMultiplier": 1
     }
