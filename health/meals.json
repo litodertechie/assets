@@ -3,7 +3,7 @@
     {
       "id": "meal_1777640667804",
       "timestamp": "2026-05-01T13:04:27.804Z",
-      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ1.3)",
+      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ1.3)",
       "calories": 845,
       "protein": 85,
       "carbs": 33,
@@ -97,6 +97,20 @@
       "fiber": 1,
       "confidence": "medium",
       "notes": "Assumed a standard-sized (around 1.5-2 oz) chocolate chip cookie with sea salt. Nutritional content can vary significantly based on recipe ingredients (e.g., type of flour, amount of butter/sugar/chocolate, inclusion of eggs).",
+      "source": "text",
+      "portionMultiplier": 1
+    },
+    {
+      "id": "meal_1777725307238",
+      "timestamp": "2026-05-02T12:35:07.238Z",
+      "mealName": "Two slices of Diavola pizza with scampi",
+      "calories": 750,
+      "protein": 45,
+      "carbs": 70,
+      "fat": 35,
+      "fiber": 4,
+      "confidence": "medium",
+      "notes": "Assumed two medium slices of Diavola pizza (spicy salami, mozzarella, tomato sauce) and a side of scampi (shrimp in garlic butter sauce). Nutritional values are an approximation based on common restaurant portions and recipes. Scampi portion assumed to be around 4-6 large shrimp. Pizza could vary significantly in size and topping amount.",
       "source": "text",
       "portionMultiplier": 1
     }
