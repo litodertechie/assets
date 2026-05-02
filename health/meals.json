@@ -3,7 +3,7 @@
     {
       "id": "meal_1777640667804",
       "timestamp": "2026-05-01T13:04:27.804Z",
-      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ1.3)",
+      "mealName": "Roast Chicken with Beetroot and Celery Salad (ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ1.3)",
       "calories": 845,
       "protein": 85,
       "carbs": 33,
@@ -111,6 +111,20 @@
       "fiber": 4,
       "confidence": "medium",
       "notes": "Assumed two medium slices of Diavola pizza (spicy salami, mozzarella, tomato sauce) and a side of scampi (shrimp in garlic butter sauce). Nutritional values are an approximation based on common restaurant portions and recipes. Scampi portion assumed to be around 4-6 large shrimp. Pizza could vary significantly in size and topping amount.",
+      "source": "text",
+      "portionMultiplier": 1
+    },
+    {
+      "id": "meal_1777725372741",
+      "timestamp": "2026-05-02T12:36:12.742Z",
+      "mealName": "Crispy White Pepper Chicken (Bills Australia)",
+      "calories": 750,
+      "protein": 45,
+      "carbs": 60,
+      "fat": 45,
+      "fiber": 4,
+      "confidence": "medium",
+      "notes": "Assumed a single serving consistent with a main course at a restaurant like Bills. 'Crispy' implies deep-frying or pan-frying, adding fat. 'White pepper chicken' likely includes a sauce, rice or similar starch, and potentially a small side salad or garnish. Fat content is higher due to crispy preparation. Carbohydrates include starch and potential sugars in the sauce. Protein is from the chicken itself.",
       "source": "text",
       "portionMultiplier": 1
     }
