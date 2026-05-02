@@ -9,5 +9,20 @@
       "caloriesBurned": 280,
       "source": "manual"
     }
+  ],
+  "2026-05-02": [
+    {
+      "id": "ex_1777725870319",
+      "timestamp": "2026-05-02T12:44:30.319Z",
+      "activityName": "Swimming",
+      "activityType": "cardio",
+      "durationMinutes": 20,
+      "caloriesBurned": 250,
+      "strainScore": 10.5,
+      "averageHeartRate": 140,
+      "intensity": "moderate",
+      "notes": "Assumed a moderate pace for 500m swim for an 88kg male. Duration and heart rate are estimates based on this pace.",
+      "source": "manual"
+    }
   ]
 }
